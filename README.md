@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hector Cabra</h1>
-<h3 align="center">Im a curious full stack developer, always willing to learn!</h3>
+<h1 align="center">Hello there! I'm Autokratz</h1>
+<h3 align="center">Im a curious Full Stack Developer, always willing to learn!</h3>
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJS, NodeJS, ExpressJS, MongoDB**
 
